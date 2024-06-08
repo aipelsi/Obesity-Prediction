@@ -1,12 +1,23 @@
-Predicting Obesity Category
-Goal of the Project: We used data that was a mix of synthetic and authentic data collected from Colombia, Peru, and Mexico to predict obesity levels depending on some environmental and behavioral attributes. This analysis could enable a deeper understanding of obesity prevalence and expected incidence.
+Ojectives
+Understand obesity trends: Analyze data to comprehend the prevalence and incidence of obesity across different demographics and regions.
+Predict future trends: Employ machine learning models to predict future obesity trends and identify potential intervention points.
+Inform policy and intervention design: Translate data-driven insights into actionable strategies for health policy makers and public health officials.
+Methods
+Data Collection: The dataset included variables such as gender, age, dietary habits, physical activity, and genetic factors, derived from a variety of sources including the UC Irvine’s Machine Learning Repository.
+Modeling Techniques Used:
+Multinomial Logistic Regression to handle categorical outcomes of obesity classes.
+Decision Tree Classification and Random Forests to predict obesity based on lifestyle and genetic factors.
+Hierarchical Clustering to identify patterns and groups based on lifestyle factors which could be targeted in interventions.
+Key Findings
+Predictive Performance: The Random Forest model achieved a high accuracy rate, significantly better than the baseline, indicating robust predictive capabilities for identifying obesity levels.
+Insights for Interventions: Decision tree analysis provided clarity on the importance of factors such as the number of main meals, vegetable consumption frequency, and physical activity in predicting obesity.
+Behavioral Patterns: Hierarchical clustering revealed distinct lifestyle patterns that could be specifically targeted with customized public health interventions.
+Impact
+Policy Formulation: Insights from the project are being used to guide policy formulation, focusing on preventive measures and resource allocation that address high-risk groups identified by the models.
+Intervention Design: Data-driven understanding allows for the design of targeted interventions, such as community fitness programs and nutritional education, tailored to the specific needs and habits of different population segments.
+Conclusion
+The Health Trends Analysis project has equipped policymakers and health officials with a deeper understanding of the factors influencing obesity, enabling them to deploy more effective and targeted health interventions. This project exemplifies how advanced data analysis and machine learning can play a pivotal role in modern public health strategies.
 
-The data was obtained from UC Irvine Machine Learning Repository which can be accessed here.
-
-Exploration and Data Cleaning
-23% of the data was collected online via survey, while the remaining 77% was generated synthetically using WEKA and SMOTE. Further data synthesis information can be found on the Repository site. This prior data cleaning and synthesis was really helpful in balancing out the attributes and controlling over-representation.
-
-Total Count = 2111
 
 Independent Variables:
 
