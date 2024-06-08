@@ -1,7 +1,7 @@
 # Health Trends Analysis - Obesity Impact Study
 
 ## Overview
-This project, part of GEVB-X Data Solutions Inc., aims to understand and mitigate the impacts of obesity on the U.S. population. In collaboration with the U.S. Department of Health and Human Services, our team has applied advanced machine learning techniques to predict obesity trends and provide actionable insights for health policy and interventions.
+This project aims to understand and mitigate the impacts of obesity on the U.S. population.I have applied various machine learning techniques to predict obesity trends and provide actionable insights.
 
 ## Objectives
 - **Understand Obesity Trends:** Analyze data to comprehend the prevalence and incidence of obesity across different demographics and regions.
@@ -27,4 +27,4 @@ The dataset includes variables such as gender, age, dietary habits, physical act
 - **Intervention Design:** Data-driven insights allow for the design of targeted interventions like community fitness programs and nutritional education, tailored to the specific needs and habits of different population segments.
 
 ## Conclusion
-The Health Trends Analysis project has provided policymakers and health officials with a deeper understanding of the factors influencing obesity. This enables the deployment of more effective and targeted health interventions, showcasing how advanced data analysis and machine learning can play a pivotal role in modern public health strategies.
+The Health Trends Analysis could potential offer policymakers and health officials with a deeper understanding of the factors influencing obesity. This enables the deployment of more effective and targeted health interventions, showcasing how advanced data analysis and machine learning can play a pivotal role in modern public health strategies.
